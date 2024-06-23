@@ -13,7 +13,7 @@ for i in range(len(points)):
 
 min_distance = min(distances)
 
-print("Noktalar arasındaki mesafeler:", distances)
+print("Noktalar arasındaki mesafe:", distances)
 print("Minimum mesafe:", min_distance)
 
 
